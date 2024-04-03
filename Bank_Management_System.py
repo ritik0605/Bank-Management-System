@@ -11,7 +11,6 @@
 # Traditional banking systems often involve manual processes and paperwork, leading to inefficiencies and delays in customer service. A modernized system is needed to streamline operations, enhance customer experience, and ensure accuracy in financial transactions.
 
 # # Tools:
-# 
 # Programming Language: Python
 
 # In[1]:
